@@ -1,0 +1,4 @@
+[ERROR] 2017-10-24 09:58:05,124 cn.jstrictfp.weixin.api.UserTagApi 标签创建失败，errcode45157,errmsg45157
+[ERROR] 2017-10-24 09:59:40,661 cn.jstrictfp.weixin.api.UserTagApi 标签创建失败，errcode45157,errmsg45157
+[INFO ] 2017-10-24 10:03:16,244 cn.jstrictfp.weixin.api.UserTagApi 标签创建成功
+[INFO ] 2017-10-24 13:36:48,298 cn.jstrictfp.weixin.util.HttpUtil 图片已保存到D:/gQH78TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyT3AtN1ZwRXBjczMxMDAwMDAwN0wAAgSdGqRYAwQAAAAA.jpg
